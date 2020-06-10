@@ -1,0 +1,434 @@
+{
+  "authors": [
+    {
+      "user": "peas",
+      "email": "paulo.silveira@caelum.com.br",
+      "name": "Paulo Silveira"
+    },
+    {
+      "user": "gas",
+      "email": "guilherme.silveira@caelum.com.br",
+      "name": "Guilherme Silveira"
+    },
+    {
+      "user": "gmoreira",
+      "email": "guilherme.moreira@caelum.com.br",
+      "name": "Guilherme de Almeida Moreira"
+    },
+    {
+      "user": "fkung",
+      "email": "fabio.kung@caelum.com.br",
+      "name": "Fabio Kung"
+    },
+    {
+      "user": "trusso",
+      "email": "thadeu.russo@caelum.com.br",
+      "name": "Thadeu Russo"
+    },
+    {
+      "user": "slopes",
+      "email": "slopes@gmail.com",
+      "name": "Sérgio Lopes"
+    },
+    {
+      "user": "steppat",
+      "email": "steppat@gmail.com",
+      "name": "Nico Steppat"
+    },
+    {
+      "user": "lucas",
+      "email": "lucas.cavalcanti@caelum.com.br",
+      "name": "Lucas Cavalcanti"
+    },
+    {
+      "user": "cosen",
+      "email": "rafael.cosentino@caelum.com.br",
+      "name": "Rafael Cosentino"
+    },
+    {
+      "user": "edmilson.miyasaki",
+      "email": "edmilson.miyasaki@caelum.com.br",
+      "name": "Edmilson Miyasaki"
+    },
+    {
+      "user": "caueguerra",
+      "email": "caueguerra@gmail.com",
+      "name": "Cauê Guerra"
+    },
+    {
+      "user": "alexandre.magno",
+      "email": "alexandre.magno@caelum.com.br",
+      "name": "alexandre.magno"
+    },
+    {
+      "user": "jonas",
+      "email": "jonas@vidageek.net",
+      "name": "Jonas Abreu"
+    },
+    {
+      "user": "luiz.bassi",
+      "email": "luiz.bassi@caelum.com.br",
+      "name": "luiz.bassi"
+    },
+    {
+      "user": "pmatiello",
+      "email": "pedro.matiello@caelum.com.br",
+      "name": "Pedro Matiello"
+    },
+    {
+      "user": "anderson.leite",
+      "email": "anderson.leite@caelum.com.br",
+      "name": "Anderson Leite"
+    },
+    {
+      "user": "rafael.ferreira",
+      "email": "rafael.ferreira@caelum.com.br",
+      "name": "Rafael Ferreira"
+    },
+    {
+      "user": "ricardo.nakamura",
+      "email": "ricardo.nakamura@caelum.com.br",
+      "name": "Ricardo Nakamura"
+    },
+    {
+      "user": "sergiojr",
+      "email": "sergior.jr@gmail.com",
+      "name": "Sérgio Azevedo Junior"
+    },
+    {
+      "user": "adriano.almeida",
+      "email": "adriano.almeida@caelum.com.br",
+      "name": "Adriano Almeida"
+    },
+    {
+      "user": "lucasas",
+      "email": "lucasas@gmail.com",
+      "name": "Lucas Souza"
+    },
+    {
+      "user": "david.paniz",
+      "email": "davidpaniz@gmail.com",
+      "name": "David Paniz"
+    },
+    {
+      "user": "luiz.costa",
+      "email": "luiz.costa@caelum.com.br",
+      "name": "Luiz Costa"
+    },
+    {
+      "user": "ettore",
+      "email": "ettore.luglio@caelum.com.br",
+      "name": "Ettore Luglio"
+    },
+    {
+      "user": "douglas.campos",
+      "email": "douglas.campos@caelum.com.br",
+      "name": "douglas.campos"
+    },
+    {
+      "user": "maniche",
+      "email": "mauricioaniche@gmail.com",
+      "name": "Maurício Aniche"
+    },
+    {
+      "user": "lacerdaph",
+      "email": "lacerdaph@gmail.com",
+      "name": "Raphael Lacerda"
+    },
+    {
+      "user": "ceci",
+      "email": "cecilia.fernandes@caelum.com.br",
+      "name": "Ceci Fernandes"
+    },
+    {
+      "user": "alberto.souza",
+      "email": "alberto.souza@caelum.com.br",
+      "name": "Alberto Souza"
+    },
+    {
+      "user": "mario.amaral",
+      "email": "mario.amaral@caelum.com.br",
+      "name": "Mário Amaral"
+    },
+    {
+      "user": "erich.egert",
+      "email": "erich.egert@caelum.com.br",
+      "name": "Erich Egert"
+    },
+    {
+      "user": "hannelita",
+      "email": "hannelita@gmail.com",
+      "name": "Hanneli Tavante"
+    },
+    {
+      "user": "toshi",
+      "email": "andrew.kurauchi@caelum.com.br",
+      "name": "Toshi"
+    },
+    {
+      "user": "andre.silva",
+      "email": "andre.silva@caelum.com.br",
+      "name": "André Silva"
+    },
+    {
+      "user": "ricardo.valeriano",
+      "email": "ricardo.valeriano@caelum.com.br",
+      "name": "Ricardo Valeriano"
+    },
+    {
+      "user": "dchohfi",
+      "email": "dchohfi@gmail.com",
+      "name": "Diego Chohfi"
+    },
+    {
+      "user": "gabriel.oliveira",
+      "email": "gabriel.oliveira@caelum.com.br",
+      "name": "Gabriel Oliveira"
+    },
+    {
+      "user": "eric",
+      "email": "ericzumba@gmail.com",
+      "name": "Eric Torti"
+    },
+    {
+      "user": "leonardo.wolter",
+      "email": "leonardo.wolter@caelum.com.br",
+      "name": "Leonardo Wolter"
+    },
+    {
+      "user": "francisco.sokol",
+      "email": "francisco.sokol@caelum.com.br",
+      "name": "Francisco Sokol"
+    },
+    {
+      "user": "victor.harada",
+      "email": "victorkendy@gmail.com",
+      "name": "Victor Kendy Harada"
+    },
+    {
+      "user": "felipe.torres",
+      "email": "felipe.torres@caelum.com.br",
+      "name": "Felipe Torres"
+    },
+    {
+      "user": "rferreira",
+      "email": "rodrigo.ferreira@caelum.com.br",
+      "name": "Rodrigo Ferreira"
+    },
+    {
+      "user": "luiz.real",
+      "email": "luiz.real@caelum.com.br",
+      "name": "Luiz Corte Real"
+    },
+    {
+      "user": "flavio.almeida",
+      "email": "flavio.almeida@caelum.com.br",
+      "name": "Flávio Almeida"
+    },
+    {
+      "user": "Hugo Roque",
+      "email": "hugolnx@gmail.com",
+      "name": "Hugo Roque"
+    },
+    {
+      "user": "Natanael Pantoja",
+      "email": "natanael.pantoja@caelum.com.br",
+      "name": "Natanael Pantoja"
+    },
+    {
+      "user": "williammizuta",
+      "email": "william.mizuta@caelum.com.br",
+      "name": "William Mizuta"
+    },
+    {
+      "user": "danuta",
+      "email": "danuta.pereira@caelum.com.br",
+      "name": "Danuta Pereira"
+    },
+    {
+      "user": "joviane",
+      "email": "joviane.jardim@caelum.com.br",
+      "name": "Joviane Jardim"
+    },
+    {
+      "user": "rodrigo.turini",
+      "email": "rodrigo.turini@caelum.com.br",
+      "name": "Rodrigo Turini"
+    },
+    {
+      "user": "leonardo.souza",
+      "email": "leonardodisouza@gmail.com",
+      "name": "Leonardo Souza"
+    },
+    {
+      "user": "vitor.mattos",
+      "email": "vitor.mattos@caelum.com.br",
+      "name": "Vitor Mattos"
+    },
+    {
+      "user": "fabio.pimentel",
+      "email": "fabio.pimentel@caelum.com.br",
+      "name": "fabio.pimentel"
+    },
+    {
+      "user": "fernando.stefanini",
+      "email": "fernando.stefanini@caelum.com.br",
+      "name": "Fernando Stefanini"
+    },
+    {
+      "user": "paulo.alves",
+      "email": "paulo.alves@caelum.com.br",
+      "name": "Paulo Alves"
+    },
+    {
+      "user": "alexandre.aquiles",
+      "email": "alexandre.aquiles@caelum.com.br",
+      "name": "Alexandre Aquiles"
+    },
+    {
+      "user": "rodrigo.gunisalvo",
+      "email": "rodrigo.gunisalvo@caelum.com.br",
+      "name": "Rodrigo Gunisalvo"
+    },
+    {
+      "user": "Fernanda Bernardo",
+      "email": "fernanda.bernardo@caelum.com.br",
+      "name": "Fernanda Bernardo"
+    },
+    {
+      "user": "suelengc",
+      "email": "suelen.carvalho@caelum.com.br",
+      "name": "Suelen G. Carvalho"
+    },
+    {
+      "user": "Felipe Oliveira",
+      "email": "felipe.oliveira@caelum.com.br",
+      "name": "Felipe Oliveira"
+    },
+    {
+      "user": "gabriel.ferreira",
+      "email": "gabriel.ferreira@caelum.com.br",
+      "name": "Gabriel Ferreira"
+    },
+    {
+      "user": "alessandro.palmeira",
+      "email": "alessandro.palmeira@caelum.com.br",
+      "name": "Alessandro Palmeira"
+    },
+    {
+      "user": "marcio.shibao",
+      "email": "marcio.shibao@caelum.com.br",
+      "name": "Márcio Shibao"
+    },
+    {
+      "user": "renan.saggio",
+      "email": "renan.saggio@gmail.com",
+      "name": "Renan Saggio"
+    },
+    {
+      "user": "joao.santana",
+      "email": "joao.santana@caelum.com.br",
+      "name": "João Santana"
+    },
+    {
+      "user": "lucas.takeshi",
+      "email": "lucas.takeshi@caelum.com.br",
+      "name": "Lucas Takeshi"
+    },
+    {
+      "user": "eric.camargo",
+      "email": "eric.camargo@caelum.com.br",
+      "name": "Eric Camargo"
+    },
+    {
+      "user": "marco.bruno",
+      "email": "marco.bruno.br@gmail.com",
+      "name": "Marco Bruno"
+    },
+    {
+      "user": "natan.souza",
+      "email": "natan.souza@caelum.com.br",
+      "name": "Natan Souza"
+    },
+    {
+      "user": "Artur Adam",
+      "email": "artur.adam@caelum.com.br",
+      "name": "Artur Diniz Adam"
+    },
+    {
+      "user": "carladebona",
+      "email": "carladebona@gmail.com",
+      "name": "Carla De Bona"
+    },
+    {
+      "user": "andre.verri",
+      "email": "andre.verri@caelum.com.br",
+      "name": "Deco Verri"
+    },
+    {
+      "user": "jopss.sossoloti",
+      "email": "jopss.sossoloti@gmail.com",
+      "name": "João Paulo Sossoloti"
+    },
+    {
+      "user": "fernando.furtado",
+      "email": "fernando.furtado@caelum.com.br",
+      "name": "Fernando Furtado"
+    },
+    {
+      "user": "philippeehlert",
+      "email": "philippe.ehlert@caelum.com.br",
+      "name": "Philippe Ehlert"
+    },
+    {
+      "user": "lucas.romao",
+      "email": "lucas.romao.silva@gmail.com",
+      "name": "Lucas Romão"
+    },
+    {
+      "user": "victor.sprengel",
+      "email": "victor.sprengel@gmail.com",
+      "name": "Victor Sprengel"
+    },
+    {
+      "user": "vanessa.tonini",
+      "email": "vanessa.tonini@caelum.com.br",
+      "name": "Vanessa Tonini"
+    },
+    {
+      "user": "matheus.brandino",
+      "email": "matheus.brandino@caelum.com.br",
+      "name": "Matheus Brandino"
+    },
+    {
+      "user": "alex.vieira",
+      "email": "alex.vieira@caelum.com.br",
+      "name": "Alex Felipe"
+    },
+    {
+      "user": "Thiago Andrade",
+      "email": "thiago.andrade@caelum.com.br",
+      "name": "Thiago Andrade"
+    },
+    {
+      "user": "lenka.rejfirova",
+      "email": "lenka.rejfirova@caelum.com.br",
+      "name": "Lenka Rejfirova"
+    },
+    {
+      "user": "yan.orestes",
+      "email": "yan.orestes@alura.com.br",
+      "name": "Yan Orestes"
+    },
+    {
+      "user": "daniel.portugal",
+      "email": "daniel.portugal@caelum.com.br",
+      "name": "Daniel Portugal"
+    },
+    {
+      "user": "marcio.souto",
+      "email": "mario.souto@caelum.com.br",
+      "name": "Mario Souto"
+    }
+  ]
+}
