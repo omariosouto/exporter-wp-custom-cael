@@ -1,0 +1,20 @@
+---
+title: "Falando em Java 2009: eu fui!"
+date: "2009-05-27"
+author: "gas"
+authorEmail: "guilherme.silveira@caelum.com.br"
+main_guide: "main_guide"
+main_category: "geral"
+---
+
+Este domingo aconteceu o [Falando em Java 2009](http://www.falandoemjava.com.br/) com mais de **500 participantes**, evento que nesta terceira edição trouxe o inglês [Jim Webber](http://jim.webber.name/), arquiteto global e diretor de serviços profissionais da [ThoughtWorks](http://www.thoughtworks.com/). Jim falou de SOA e integração e encerrou o evento dando detalhes técnicos sobre restful webservices.
+
+O próprio Jim postou a respeito do evento [aqui](http://jim.webber.name/2009/05/26/85eb97fc-c601-4103-a6bc-e0f9a0adc10c.aspx), e suas palestras podem ser vistas [neste link](http://jim.webber.name/presentations.html) (Falando em Java Keynote e Caelum Tech Talk). Jim demonstrou-se um exímio palestrante, e foi o destaque do evento. Ele também participou de nosso evento interno, o Caelum Tech Day, que ocorreu na sexta feira dentro da empresa.
+
+[![_MG_8950](http://farm4.static.flickr.com/3310/3567437555_7946d372b3_m.jpg)](http://www.flickr.com/photos/silveira/3567437555/ "_MG_8950 by Paulo Silveira, on Flickr") [![_MG_8973](http://farm3.static.flickr.com/2429/3567450619_7a5d55eda3_m.jpg)](http://www.flickr.com/photos/silveira/3567450619/ "_MG_8973 by Paulo Silveira, on Flickr") [![_MG_8962](http://farm4.static.flickr.com/3384/3567447913_78fef98615_m.jpg)](http://www.flickr.com/photos/silveira/3567447913/ "_MG_8962 by Paulo Silveira, on Flickr") [![_MG_9010](http://farm4.static.flickr.com/3176/3568300684_8fdfa97f02_m.jpg)](http://www.flickr.com/photos/silveira/3568300684/ "_MG_9010 by Paulo Silveira, on Flickr")
+
+Tivemos importantes anúncios, como [o livro de Arquitetura e Design de Software: uma visão sobre a plataforma Java](http://www.arquiteturajava.com.br/), a futura Caelum Brasília, o [novo curso de Flex](http://www.caelum.com.br/curso/fj-29-aplicacoes-ricas-adobe-flex/) em parceria com a pioneira [DClick](http://www.dclick.com.br/), além do estágio avançado do [desenvolvimento do VRaptor3](http://github.com/caelum/vraptor/tree/master).
+
+Já existe [um post no GUJ discutindo como foi o evento](http://guj.com.br/posts/list/127676.java) e lá você pode deixar a sua opinião. Há também muitos posts em blogs comentando, criticando, elogiando e dando sugestões em relação ao evento, por enquanto temos nos seguintes blogs: [Loiane Groner](http://www.loiane.com/2009/05/falando-em-java-2009-eu-fui/), [Rafael Carneiro](http://www.rafaelcarneiro.net/blog/2009/05/25/falando-em-java-2009-eu-fui/), [Paulo Jeveaux](http://www.jeveaux.com/blog/2009/comentarios-do-falando-em-java-09/),[Alberto Leal](http://albertoleal.eti.br/2009/05/falando-em-java-2009-eu-fui/), [Alberto Souza](http://www.settech.com.br/blog/?p=86), [Eduardo Bregaida](http://javawora.blogspot.com/2009/05/falando-em-java-eu-fui.html), [André Pantalião e Rodrigo Ribeiro](http://ensinar.wordpress.com/2009/05/25/falando-em-java-nossas-impressoes/), [Marcelo Madeira](http://celodemelo.wordpress.com/2009/05/26/falando-em-java-2009/), [Natanael Pantoja](http://www.natanaelpantoja.com/tech/?p=248), [Celso Martins](http://celsoavmartins.blogspot.com/2009/05/falando-em-java-2009-minhas-impressoes.html), [Valdemar Jr](http://valdemarjr.blogspot.com/2009/05/falandoemjava-2009.html), [Leandro silva](http://leandrosilva.com.br/2009/05/25/entao-falando-em-java/), [Rodrigo Lazoti](http://www.rodrigolazoti.com.br/?p=237), [no blog da Go Now](http://www.gonow.com.br/blog/falando-em-java) e [da BlueEye](http://www.bluetalk.com.br/2009/06/12/equipe-blueeye-no-falando-em-java-2009/)
+
+Confira também como foi o evento em [2007](https://blog.caelum.com.br/fatos-e-fotos-do-falando-em-java-2007/) e em [2008](https://blog.caelum.com.br/falando-em-java-2008-eu-fui/)! Agradecemos aos nossos patrocinadores: a [Globo.com](http://globo.com), [o grupo JBoss](http://jboss.org) e a [Locaweb](http://locaweb.com.br). Agradecemos a todos vocês pela presença, e ficamos na certa de realizar o próximo evento ainda melhor, baseado na experiência e feedback de todos vocês!

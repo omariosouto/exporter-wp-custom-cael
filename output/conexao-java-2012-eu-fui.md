@@ -1,0 +1,22 @@
+---
+title: "Conexão Java 2012 - eu fui!"
+date: "2012-05-29"
+author: "peas"
+authorEmail: "paulo.silveira@caelum.com.br"
+main_guide: "main_guide"
+main_category: "geral"
+---
+
+O [Conexão Java 2012](http://www.conexaojava.com.br) foi um sucesso. Em São Paulo, 400 participantes lotaram o auditório para participar de um evento com novo formato: um problema foi proposto e trabalhado em todas as palestras, guiando quem está começando na plataforma Java. O objetivo era criar uma aplicação Android que consumisse JSON do cloud, para saber que ônibus passavam pelos pontos mais próximos de você. [Mais fotos no facebook](https://www.facebook.com/media/set/?set=a.10150943546679086.402838.190950799085&type=1). Os vídeos da maioria das palestras já estão disponíveis para quem é [assinante dos cursos online da Caelum](http://www.caelum.com.br/cursos/online/).
+
+[![](https://blog.caelum.com.br/wp-content/uploads/2012/05/306155_10150943567724086_190950799085_9806696_1825036587_n-150x150.jpg "306155_10150943567724086_190950799085_9806696_1825036587_n")](https://blog.caelum.com.br/wp-content/uploads/2012/05/306155_10150943567724086_190950799085_9806696_1825036587_n.jpeg) [![](https://blog.caelum.com.br/wp-content/uploads/2012/05/545630_10150943567549086_190950799085_9806695_1614293289_n-150x150.jpg "545630_10150943567549086_190950799085_9806695_1614293289_n")](https://blog.caelum.com.br/wp-content/uploads/2012/05/545630_10150943567549086_190950799085_9806695_1614293289_n.jpeg) [![](https://blog.caelum.com.br/wp-content/uploads/2012/05/179936_10150943817844086_190950799085_9807695_78203661_n-150x150.jpg "179936_10150943817844086_190950799085_9807695_78203661_n")](https://blog.caelum.com.br/wp-content/uploads/2012/05/179936_10150943817844086_190950799085_9807695_78203661_n.jpeg)
+
+Como houve muita codificação ao vivo, os slides não mostram tudo que ocorreu no evento. Enquanto não lançamos os videos de algumas das palestras, [publicamos o código fonte utilizado](https://github.com/caelum/conexaojava), além dos slides. Eu comecei falando [um pouco mais da importância da JVM](http://www.slideshare.net/caelumdev/plataforma-java-detalhes-da-jvm) e mostrando como funciona o bytecode e as otimizações do JIT. Em seguida, Mauricio Aniche elaborou a modelagem do nosso domínio de ônibus, [mostrando alguns princípios de orientação a objetos](http://www.slideshare.net/mauricioaniche/conexo-java-2012-orientao-a-objetos-das-galxias), para serem complementados pela Cecilia, que demonstrou [o uso das coleções do Java](http://www.slideshare.net/cecifernandes/ceci-13111109).
+
+![](https://blog.caelum.com.br/wp-content/uploads/2012/05/conexao-java.png "conexao-java")
+
+Adriano Almeida [explicou um pouco de MVC](http://www.slideshare.net/adrianoalmeida7/conexao-java-vraptor) para codificar com o VRaptor, e depois Alberto Souza demonstrar onde JSF se enquadra. Guilherme Silveira fez código ao vivo com Hibernate, persistindo o nosso modelo de Onibus. No final, Hanneli passou o [conceito de cloud](http://www.slideshare.net/hannelita/java-nas-nuvens), praticando do OpenShift, para então Erich Egert codificar o que precisava em uma [aplicação Android](http://www.slideshare.net/ErichEgert/conexao-java-criando-uma-app-android). O evento terminou com divertidas lightning talks e o sorteio de um Playstation 3 e outros brindes.
+
+[![](https://blog.caelum.com.br/wp-content/uploads/2012/05/156551_10150943823654086_190950799085_9807739_1191469860_n-150x150.jpg "156551_10150943823654086_190950799085_9807739_1191469860_n")](https://blog.caelum.com.br/wp-content/uploads/2012/05/156551_10150943823654086_190950799085_9807739_1191469860_n.jpeg) [![](https://blog.caelum.com.br/wp-content/uploads/2012/05/487300_10150943566919086_311270336_n-150x150.jpg "487300_10150943566919086_311270336_n")](https://blog.caelum.com.br/wp-content/uploads/2012/05/487300_10150943566919086_311270336_n.jpeg) [![](https://blog.caelum.com.br/wp-content/uploads/2012/05/545169_10150943567084086_190950799085_9806690_2123050911_n-150x150.jpg "545169_10150943567084086_190950799085_9806690_2123050911_n")](https://blog.caelum.com.br/wp-content/uploads/2012/05/545169_10150943567084086_190950799085_9806690_2123050911_n.jpeg)
+
+Foi uma comemoração de 10 anos do GUJ, 8 anos da Caelum e recuperar um evento focado a quem está adquirindo suas primeiras experiências na plataforma. Nos vemos nos próximos eventos. Se você está começando com Java, não deixe de ver nossas [apostilas](http://www.caelum.com.br/apostilas) e [cursos](http://www.caelum.com.br/cursos).

@@ -1,0 +1,30 @@
+---
+title: "Como anda o Angular.js? Devo embarcar nessa?"
+date: "2014-11-04"
+author: "lacerdaph"
+authorEmail: "lacerdaph@gmail.com"
+main_guide: "main_guide"
+main_category: "geral"
+---
+
+Há 7 meses recebemos a tarefa de reestruturar um sistema crítico da empresa. O foco era economizar a quantidade de dados trafegados e diminuir o tempo de espera do usuário em cada interação com a aplicação. É uma empresa grande, sistema que atende o Brasil inteiro, com mais de 100 desenvolvedores envolvidos no projeto e até então a ideia principal era evoluir as tecnologias já existentes.
+
+Contudo, determinado dia, um desenvolvedor veio com a ideia de fazer uma mudança radical. Mudar o MVC server-side para client-side e para isso a sugestão foi utilizar o [Angular](https://docs.angularjs.org/). Minha primeira reação foi de negação e desaprovação, não pelo framework, mas pelo [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript).  Nunca havia me dado bem com a linguagem e também [nunca tinha feito um grande esforço para lidar com o essencial](http://www.infoq.com/minibooks/javascript-html5-essentials).
+
+Esse foi o começo da minha história, que não terá meio e nem fim uma vez que os posts terão um viés mais técnico. De qualquer maneira, essa [figura resume bem como anda minha relação com o framework](http://www.bennadel.com/blog/2439-my-experience-with-angularjs-the-super-heroic-javascript-mvw-framework.htm):
+
+[![feelings_about_angularjs_over_time](https://blog.caelum.com.br/wp-content/uploads/2014/11/feelings_about_angularjs_over_time-290x300.png)](https://blog.caelum.com.br/wp-content/uploads/2014/11/feelings_about_angularjs_over_time.png)
+
+Nosso objetivo aqui é fazer um série de artigos sobre o Angular, tratando basicamente sobre conceitos gerais, dicas, navegação, CRUD e um pouquinho de REST. Então não vamos comparar o [Angular com os seus concorrentes como Ember, Blackout, dentre outros](http://blog.dantup.com/2014/08/you-have-ruined-html/) que estão proliferando por aí.
+
+O Angular é um framework JavaScript, criado pelo Google, no estilo MVC e usa o conceito de [SPA](http://en.wikipedia.org/wiki/Single-page_application) (Single Page Application). Nesse tipo de aplicação, apenas uma parte dela muda e a outra permanece fixa, fazendo parte de um template compartilhando entre as páginas. Isso traz melhoras para a experiência do usuário e tráfego de dados. Ele tem crescido muito em adoção e é um dos frameworks mais importantes da atualidade
+
+Você pode começar com o tutorial do Angular, desenvolvendo o [PhoneCat](https://docs.angularjs.org/tutorial). Você pode inclusive utilizar o [JSBIND](http://jsbin.com/?html,output) para codificar e ver o live coding, ferramenta muito bacana inclusive para quem já está na utilizando o framework. Na Caelum, o curso de [front-end com JavaScript e jQuery](https://www.caelum.com.br/curso-javascript-jquery/) aborda Angular, além do [curso online de Angular](http://www.alura.com.br/cursos-online-front-end#angularjs) no Alura.
+
+Recomendo sempre acompanhar os posts do [Bruno Scopelliti](http://blog.brunoscopelliti.com), que também foca bastante na parte REST, assim como [John Papa](http://www.johnpapa.net), que fez um excelente [Angular Code Conventions](https://github.com/johnpapa/angularjs-styleguide) e outros blogs como do [Angular](http://angularjs.blogspot.com.br) e [Bennadel](http://www.bennadel.com/blog/recent-blog-entries.htm). Ah! claro, não se esqueça de seguir o ["James Gosling do Angular"](https://twitter.com/mhevery) e o [Igor Minar](https://twitter.com/IgorMinar), o principal [commiter do projeto](http://stackoverflow.com/users/688293/igor-minar).
+
+E caso você já esteja utilizando Angular no seu dia a dia, você já sabe que o framework está na versão 1.3 e [que a versão 2.0 está em fase de desenvolvimento](http://angularjs.blogspot.com.br/2014/03/angular-20.html). Mas talvez o que você ainda não saiba é da tendência delas [não serem retrocompatíveis](http://www.michaelbromley.co.uk/blog/267/my-thoughts-on-ngeurope-2014-and-angularjs-2-0) e que muita features irão mudar, [talvez a principal delas seja o ATScript](http://www.infoq.com/news/2014/10/angular-2-atscript?utm_source=infoq&utm_medium=popular_links_homepage). Então temos que nos preparar para eventuais mudanças em nosso código e principalmente como iremos suportar essa migração.
+
+Algumas dicas básicas para quem resolver adotar o framework é que invariavelmente você precisará de pelo menos um especialista JavaScript na sua equipe, e pelo começo desse texto você pode notar que não sou eu na minha equipe (obrigado [Tiago Lage](https://twitter.com/tiagolpadua)). Sim, o Angular abstrai muito o uso do JavaScript, provendo inclusive algumas [funções auxiliares](https://docs.angularjs.org/api/ng/function/angular.forEach), mas você precisará de alguém capaz de entender bem o assincronismo e outras loucuras, digo, [features que a  linguagem](https://blog.caelum.com.br/javascript-entenda-a-nova-especificacao-de-classes-do-harmony-es6/) provê. Além disso, [acompanhar](http://ng-conf.org) os eventos [sobre Angular](http://ngeurope.org) (talvez um dia cheguem aqui) e os [podcasts](https://www.fanscribed.com/podcasts/17/episodes/2760-108-jsj-angularjs-with-igor-minar/) que falam sobre a tecnologia
+
+Finalizando, a ideia inicial aqui é interar o leitor sobre esse novo mundo, mostrando as vantagens do framework e [apontar](http://www.thoughtworks.com/insights/blog/angularjs-bad-bits) também algumas [desvantagens](http://branchandbound.net/blog/web/2013/08/some-angularjs-pitfalls/), que são [melhor exploradas com o uso diário](http://blog.dantup.com/2014/10/have-the-angular-team-lost-their-marbles/). Agora é esperar a série de posts, sendo que no próximos discutiremos sobre navegação seguido pelos posts de CRUD. Eu ainda estou aprendendo e você? Como está seu conhecimento desse "novo velho" [mundo de ferramentas JavaScript](https://blog.caelum.com.br/bye-bye-grunt-js-hello-gulp-js/)? Algum tópico que você gostaria de ler sobre Angular?
